@@ -1,0 +1,1986 @@
+/********************************************************/
+/*					Media queries 															*/
+/********************************************************/
+@media screen and (max-width: 1920px) {
+	/*.subiz_status {
+	    right: 10px;
+	    left: initial;
+	}*/
+
+	
+}
+/********************************************************/
+@media screen and (max-width: 1920px) {
+	.outer-slide {
+		height: 530px;
+		/*height: 435px;*/
+	}
+}
+/********************************************************/
+@media screen and (max-width: 1700px) {
+	/*.subiz_status {
+	    right: initial;
+	    left: 50%;
+	}*/
+}
+/********************************************************/
+@media screen and (max-width: 1366px) {
+	.outer-slide {
+	    /*height: 450px;*/
+	    height: 410px;
+	}
+}
+/********************************************************/
+@media screen and (max-width: 1280px) {
+	#pGioiThieu .outer-slide {
+		height: 267px;
+	}
+
+	.outer-slide {
+	    /*height: 350px;*/
+	    height: 330px;
+	}
+}
+/********************************************************/
+@media screen and (max-width: 1279px) {
+	.new-home {
+		width: 100%;
+		margin: 0;
+	}
+	.new-home .left-new-home, 
+	.new-home .right-new-home {
+	    padding: 0 10px;
+	}
+
+	html, body,
+	body > header,
+	.banner-category,
+	.container {
+		/*min-width: 1280px !important;*/
+	}
+
+	.group-btn-tuyendung {
+		padding: 7px 10px 40px;
+	}
+	.aside-content a.btn-back,
+	.aside-content a.btn-timtuyendung {
+		display: block;
+		margin: 5px 0;
+	}
+
+}
+/********************************************************/
+@media screen and (max-width: 1170px) {
+	.promotions .outer-slide .slide .copy,
+	.container {
+		width: 100%;
+		padding: 0 10px;
+	}
+
+	.left-new-home article {
+	    overflow: hidden;
+	    height: 303px;
+	    border-radius: 8px;
+	}
+
+	.content-left > img {
+		margin-left: -170px;
+	}
+	.helpfull .right .copy {
+		padding: 0 20px;
+	}
+
+	a.btn-backtotop {
+		right: 10px;
+	}
+
+	.top-menu ul li a {
+		margin: 0 10px;
+	}
+	#nav > li > a {
+	    margin: 0 16px;
+	}
+	#nav > li:last-child {
+		padding: 7px 0;
+		float: right;
+	}
+
+	.related-container .bank-content {
+		width: 100%;
+		padding: 0 10px;
+	}
+}
+/********************************************************/
+@media screen and (max-width: 1100px) {
+	#nav > li > a {
+	    margin: 0 13px;
+	}
+}
+/********************************************************/
+@media screen and (max-width: 1060px) {
+	.bank-content {
+		width: 100%;
+		padding: 0 10px;
+	}
+
+}
+/********************************************************/
+@media screen and (max-width: 1024px) {
+	.btn-mobile-2 {
+		display: block;
+	}
+
+	.line-percent.fixed-linebar {
+		top: 90px;
+	    left: 0;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+	}
+	.line-percent .w10pc {
+	    width: 20%;
+	}
+	.line-percent .w80pc {
+	    width: 60%;
+	}
+	body > header {
+		position: fixed;
+		height: 90px;
+	}
+	.top-header {
+        padding: 19px 0;
+	    z-index: 2;
+	    position: relative;
+	    overflow: initial;
+	}
+
+	.bank-content {
+		padding: 0;
+	}
+
+
+	/*.mobile-menu {}*/
+	.btn-mobile {
+		display: block;
+	}
+
+	.group-menu-top,
+	.bottom-header {
+		display: none;
+	}
+
+	.logo {
+		float: none;
+		display: block;
+		margin: 0 auto;
+	}
+
+	.group-language-mb,
+	.group-language-mb-new {
+		display: block;
+	}
+
+	.page {
+	    padding-top: 90px;
+	}
+
+	.filter-content {
+		height: auto;
+	}
+
+	.outer-restore {
+		height: auto;
+	}
+	.restore {
+		width: 100%;
+		position: relative;
+		padding: 10px;
+	}
+	.map-restore {
+		height: 300px;
+	}
+	.scrolled .g-overview {
+		width: 100%;
+	}
+
+	.mobile-menu .lv1,
+	.sub-lv1 .lv2,
+	.sub-lv2 .lv3 {
+	    margin: 0 10px;
+	}
+
+	.subiz_status {
+		display: none;
+	}
+
+	#faqs .title-style {
+		overflow: hidden;
+	}
+	/*#faqs .title-style h3 {
+		float: none;
+	}*/
+
+	.benefits .container {
+		padding: 32px 10px 50px;
+	}
+
+
+}
+/********************************************************/
+@media screen and (max-width: 1023px) {
+	.title-tab .outer-title ul li {
+		margin-right: 0;
+	}
+	.title-tab .outer-title ul li h4 {
+		font-size: 12px;
+		padding: 20px 6px;
+		line-height: 17px;
+	}
+	/*.new-hot h3 {
+		padding: 40px 10px;
+	}
+	.new-hot article {
+		padding: 20px 10px;
+	}*/
+
+	.new-home .left-new-home {
+		width: 100%;
+	}
+	.left-new-home article {
+		border-radius: 8px;
+		/*height: inherit;*/
+	}
+	.left-new-home article figure img {
+		width: 100%;
+		max-width: inherit;
+	}
+
+	.new-home .right-new-home {
+		width: 100%;
+	}
+
+	.new-home .left-new-home, 
+	.new-home .right-new-home {
+		padding: 10px 0;
+	}
+
+	.content-left > img {
+		margin-left: -210px;
+	}
+	.app {
+		right: 20px;
+	}
+
+	a.btn-backtotop {
+		display: none;
+	}
+
+	.bank-content li {
+		padding: 0 1%;
+	}
+	.bank-content article .copy .btn-more {
+		padding: 11px 15px;
+	}
+
+	.outer-slide {
+		/*height: 260px;*/
+		height: 205px;
+	}
+	.btn-prev, .btn-next {
+		display: none;
+	}
+
+	.outer-slide .slide .copy {
+		left: initial;
+		right: 0;
+	    width: 460px;
+	}
+	.outer-slide .slide .copy h3 {
+		font-size: 26px;
+		line-height: 37px;
+	}
+
+	.sub-category-list ul li {
+		width: 50%;
+	}
+
+	.ct-page-left {
+		width: 100%;
+	}
+
+	.ct-page-right {
+		width: 100%;
+		padding: 0;
+	}
+	.outer-new {
+		padding: 0;
+	}
+	.outer-new:before {
+		display: none;
+	}
+
+	.ct-page-right .paging {
+		float: none;
+	}
+
+	.tuyen-dung-info table tr td {
+		padding: 10px;
+	}
+
+	#pPriority h1 {
+		font-size: 51px;
+	}
+	.info-contact-pr p {
+		font-size: 16px;
+	}
+	.info-contact-pr p br {
+		display: none;
+	}
+
+	.intro-pr ul li .intro-pr-item {
+		padding: 0;
+	}
+
+	#pPriority .intro-pr-item p {
+		height: auto;
+	}
+
+	#pPriority .info-contact-pr {
+		height: auto;
+	}
+
+	.info-contact-pr {
+		height: auto;
+	}
+	.intro-pr {
+		max-width: 100%;
+	}
+
+	.outer-new.free-new {
+		padding-left: 0;
+	}
+	.ct-page-right h6,
+	.ct-page-right hr {
+		width: 100%;
+	}
+
+	.banner-category .copy p {
+		display: none;
+	}
+
+	.banner-category .copy h1, 
+	.banner-category .copy h3 {
+	    font-size: 26px;
+	    line-height: 1.2;
+	}
+
+	.feature .container {
+		padding: 20px 10px;
+	}
+
+	#page-not-found {
+		padding-bottom: 20px;
+	}
+
+	#pTuyendungSearch .content-page,
+	#pTuyendungSearch .aside-content,
+	#pCaNhanSanPhamDetail .content-page,
+	#pCaNhanSanPhamDetail .aside-content {
+		width: 100%;
+	}
+	#pTuyendungSearch .main-page,
+	#pCaNhanSanPhamDetail .main-page {
+		padding-right: 0;
+	}
+
+	.tuyen-dung-info {
+		padding-bottom: 40px;
+	}
+
+	#pTuyendungSearch .aside-content article,
+	#pCaNhanSanPhamDetail .aside-content article {
+	    width: 48%;
+	    float: left;
+	    margin: 0 1%;
+	    margin-top: 0;
+	}
+
+	.list-filter-tuyendung label {
+		width: 25%;
+	}
+
+	.contact-left {
+		width: 40%;
+	}
+	.contact-middle {
+		width: 60%;
+	}
+	.contact-right {
+		width: 100%;
+		margin: 10px 0;
+	}
+	.contact-middle {
+		padding: 0 0 0 5%;
+	}
+
+	.mb {
+		display: block;
+	}
+	.dsk {
+		display: none;
+	}
+
+	.my-select.mb {
+		display: inline-block;
+	}
+
+	.my-select.mb.clr span {
+	    border: none;
+	    background-color: #eee;
+	    border-radius: 0;
+	    color: #3c3c3c;
+    }
+
+	.ct-page > h1, .ct-page > h3 {
+	    margin-bottom: 0;
+	    font-size: 26px;
+	}
+
+	.promotions .outer-slide .slide .copy {
+	    -webkit-transform: translateY(-50%);
+	    -moz-transform: translateY(-50%);
+	    -ms-transform: translateY(-50%);
+	    transform: translateY(-50%);
+	}
+}
+/********************************************************/
+@media screen and (max-width: 767px) {
+	.banner-category .copy p {
+		display: block;
+	}
+	
+	.tab-article {
+		padding: 0;
+	}
+
+	.outer-title ul li {
+		width: 100%;
+		float: left;
+	}
+
+	.group-service ul li {
+		/*width: 50%;*/
+		width: 33.33333%;
+		margin: 10px 0;
+	}
+
+	.tab-article ul li {
+		width: 50%;
+		margin: 20px 0;
+	}
+
+	.left-new-home article figure img {
+		width: inherit;
+	}
+
+	.helpfull .right {
+		width: 100%;
+	}
+	.content-right {
+		max-width: 100%;
+	}
+	.helpfull .right .copy a {
+		width: 100%;
+	}
+
+	.helpfull .left {
+		width: 100%;
+	}
+
+	.copyright p {
+		text-align: center;
+	}
+	.copyright p a {
+		display: block;
+	}
+	.copyright p span {
+		display: none;
+	}
+
+	.btn-prev,
+	.btn-next {
+		display: none;
+	}
+
+	.bank-content li {
+		width: 100%;
+	}
+
+	.banner-category .copy h3 {
+	    font-size: 25px;
+	    line-height: 1.4;
+	}
+	.banner-category .copy p {
+	    font-size: 15px;
+	    line-height: 17px;
+	    display: none;
+	}
+	.banner-category .copy p br {
+		display: none;
+	}
+
+	.banner-outer-breadcrumb {
+		position: relative;
+		background: #eee;
+	}
+	.breadcrumb {
+		padding: 10px 0;
+	}
+	.breadcrumb a, .breadcrumb i, .breadcrumb span {
+		font-size: 11px;
+		line-height: 1.2;
+	}
+
+	.note {
+		padding: 10px 0;
+	}
+
+	.benefits h2,
+	.feature h2 {
+		font-size: 33px;
+	}
+
+	.benefits .container {
+	    padding: 20px 10px 0;
+	}
+
+	.banner-category {
+		height: auto;
+	    box-shadow: none;
+	}
+	.banner-category img {
+	    /*position: absolute;*/
+	    top: 0;
+	    /*height: 100%;*/
+	    width: inherit;
+	    /*right: 0;*/
+	    /*-webkit-transform: translateX(20%);
+	    -moz-transform: translateX(20%);
+	    transform: translateX(20%);*/
+
+	    /*height: 160px;*/
+	    height: 130px;
+	    position: relative;
+	    left: 50%;
+	    -webkit-transform: translateX(-50%);
+	    -moz-transform: translateX(-50%);
+	    -ms-transform: translateX(-50%);
+	    transform: translateX(-50%);
+	    box-shadow: 0px 5px 15px -10px #000;
+	}
+
+	.banner-category > .container {
+		position: relative;
+	    transform: none;
+	    left: 0;
+	    top: 0;
+	}
+	.banner-category .copy {
+	    width: 100%;
+        text-align: center;
+        padding: 20px 0 0;
+	}
+
+	.note p {
+		padding: 0;
+		/*font-size: 16px;*/
+		line-height: 1.6;
+		font-size: 14px;
+	}
+	.feature .copy p,
+	.feature ul li,
+	.feature .copy > ul > li {
+		font-size: 14px;
+		line-height: 1.6;
+	}
+
+	.content-page {
+	    float: none;
+	    width: 100%;
+	}
+	.main-page {
+		padding: 10px 0;
+	}
+	.tuyen-dung-info {
+	    padding: 0;
+	}
+	.aside-content {
+		float: none;
+		width: 100%;
+	}
+
+	.column-2 {
+		width: 100%;
+	}
+
+	.list-filter-tuyendung .column-2 {
+		margin: 14px 0;
+	}
+
+	.list-filter-tuyendung input,
+	.list-filter-tuyendung .my-select {
+		width: 70%;
+		max-width: initial;
+	}
+
+	.list-filter {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+
+	.bank-content article .copy p {
+		height: auto;
+	}
+
+	.group-question .question {
+	    font-size: 16px;
+	    line-height: 24px;
+	    padding-right: 25px;
+	}
+	.group-question .question:after {
+		right: 0;
+		border-top: 8px solid #00457c;
+	    border-left: 8px solid transparent;
+	    border-right: 8px solid transparent;
+	}
+
+	.contact-left, .contact-middle, .contact-right {
+		width: 100%;
+	}
+	.contact-middle {
+		padding: 0;
+	}
+
+	.group-net {
+		margin: 20px 0;
+		max-width: 100%;
+	    display: inline-block;
+	}
+
+	#pPriority .intro-pr {
+		padding: 26px 0 20px;
+	}
+	.intro-pr ul li {
+		width: 50%;
+		margin: 20px 0;
+	}
+
+	.priority .helpfull .right {
+	    background: #011836 url(../images/bg_app_2.png) no-repeat right;
+	}
+
+	.submenu-content a {
+	    margin: 0 26px;
+	}
+
+	#pPriority .intro-pr ul {
+		margin: 0;
+	}
+	.intro-pr ul li:nth-child(3) {
+		border: none;
+	}
+
+	body > header {
+		height: 45px;
+	}
+	.top-header {
+		padding: 0;
+		height: 45px;
+		padding-top: 2px;
+	}
+	.logo {
+	    width: 132px;
+	    height: 40px;
+	}
+	.group-language-mb img {
+		height: 20px;
+	}
+	.group-language-mb a {
+		display: block;
+	}
+	.group-language-mb span:before, 
+	.group-language-mb span:after {
+		width: 10px;
+		height: 1px;
+	}
+	.group-language-mb span:after {
+	    right: 6px;
+	    margin-top: -1px;
+	}
+
+	.btn-mobile {
+		display: block;
+		width: 20px;
+		height: 20px;
+		margin-top: 12px;
+	}
+	.btn-mobile span {
+		width: 20px;
+	}
+	.btn-mobile span:before {
+		top: -6px;
+	}
+	.btn-mobile span:after {
+		bottom: -6px;
+	}
+
+	.page {
+		padding-top: 45px;
+	}
+
+	.mobile-menu {
+		padding-top: 45px;
+	}
+	.mobile-menu .lv1 {
+		font-size: 14px;
+		padding: 8px 10px;
+	    margin: 0 10px;
+	}
+	.arlv1:before, .arlv1:after {
+		width: 10px;
+		height: 1px;
+	}
+	.arlv1:before {
+		right: 22px;
+	}
+	.arlv1:after {
+		right: 15px;
+	}
+	.sub-lv1 .lv2,
+	.sub-lv2 .lv3 {
+		font-size: 12px;
+		padding: 8px 10px 8px 45px;
+		margin: 0 10px;
+	}
+	.arlv2:before {
+		right: 15px;
+	    border-left: 8px solid transparent;
+	    border-right: 8px solid transparent;
+	    border-top: 6px solid #0083dd;
+	}
+	.sub-lv2 .lv3 {
+		padding-left: 44px;
+	}
+
+	.group-hotline-ibank .icon-phone {
+		width: 20px;
+		height: 20px;
+	}
+	.group-hotline-ibank .ibank img {
+		height: 20px;
+	}
+	.group-hotline-ibank p {
+		font-size: 14px;
+		padding: 2px 0;
+	}
+	.group-hotline-ibank p strong {
+		font-size: 20px;
+	}
+	.group-hotline-ibank .ibank {
+		font-size: 18px;
+	}
+
+	.ct-page-right p,
+	.feature ul li,
+	.other-services p {
+		font-size: 14px;
+		line-height: 1.6;
+	    padding: 10px 0;
+	}
+
+	.group-breadcrumb .social-group {
+		display: none;
+	}
+
+	.info-contact-pr p,
+	.priority-contact p {
+		font-size: 16px;
+		line-height: 1.6;
+	}
+
+	.sub-lv2 ul {
+		border: none;
+	}
+	.sub-lv2 li:last-child .lv3 {
+	    border-bottom: 1px solid #ccc;
+	}
+
+	.outer-new .content-detail .text-news {
+		padding: 0;
+	}
+
+	#page-not-found {
+		padding: 90px 0 40px;
+	}
+	#page-not-found h1 {
+	    font-size: 100px;
+	    text-align: center;
+	    letter-spacing: 10px;
+	}
+	#page-not-found p {
+		font-size: 26px;
+	}
+
+	.feature h2 {
+		margin: 0;
+	}
+
+	.feature .copy > ul > li {
+		padding: 4px 0;
+	}
+	.feature .copy > ul > li > ul > li {
+		margin-left: 19px;
+	}
+
+	#pPriorityContact .submenu-content {
+	    margin-bottom: 40px;
+	}
+
+	.group-estimate .row {
+	    margin: 20px 0;
+	}
+	.group-estimate .row .col-3,
+	.group-estimate .row .col-9 {
+		width: 100%;
+	}
+	.calculator-container {
+	    padding: 20px 0;
+	}
+
+	.ct-page-right h1 {
+		font-size: 22px;
+		line-height: 1.3;
+	}
+
+	.related-container .bank-content li {
+		width: 50%;
+	}
+
+	#pCaNhanSanPham .bank-content li {
+	    width: 50%;
+	}
+
+	.line-percent.fixed-linebar {
+		top: 45px;
+		padding: 10px;
+	}
+	.bar {
+		vertical-align: baseline;
+	}
+
+	.register-form .right-line .msg-note,
+	.msg-note {
+	    position: relative;
+	    top: 0;
+	}
+}
+/********************************************************/
+@media screen and (max-width: 639px) {
+
+	.left-new-home article .copy {
+	    padding: 20px 0 20px 10px;
+	}
+	.left-new-home article .copy h4, 
+	.left-new-home article .copy h4 a {
+		font-size: 20px;
+		line-height: 28px;
+	}
+	.left-new-home article .copy p {
+		font-size: 12px;
+		line-height: 20px;
+		margin-bottom: 0;
+	}
+
+	.nav-footer,
+	.nav-footer:first-child,
+	.nav-footer:nth-child(3) {
+		width: 50%;
+	}
+	.nav-footer:nth-child(2n+1) {
+		clear: both;
+	}
+
+	.outer-slide .slide .copy {
+		width: 60%;
+		-webkit-transform: translate(0,-50%);
+		-moz-transform: translate(0,-50%);
+		-ms-transform: translate(0,-50%);
+		transform: translate(0,-50%);
+	}
+	.outer-slide .slide .copy h3 {
+		font-size: 14px;
+		line-height: 25px;
+	}
+
+	.title-block h3 {
+		font-size: 26px;
+	}
+
+	.outer-slide {
+		/*height: 200px;*/
+		height: 150px;
+	}
+
+	.benefits ul li {
+		width: 100%;
+	}
+
+	.group-tariff-suicide {
+		padding: 20px 0;
+	}
+	.group-tariff-suicide h2 {
+		font-size: 13px;
+		line-height: 1.2;
+	}
+	.group-tariff-suicide .btn-down {
+		padding: 5px 10px;
+		font-size: 12px;
+		line-height: 1.2;
+	}
+	.group-tariff-suicide .btn-down span {
+		margin-right: 4px;
+	}
+
+	.other-services ul li {
+		width: 100% !important;
+		padding: 0;
+		margin: 10px 0;
+	}
+	.other-services ul li:last-child,
+	.other-services ul li:first-child {
+		border: none;
+	}
+
+	.outer-new .item-news .img {
+		display: block;
+		margin: 0 auto;
+		width: 100%;
+	}
+	.outer-new .item-news .img img {
+		width: 100%;
+	}
+	.outer-new .item-news .copy {
+		display: block;
+		margin: 0 auto;
+		width: 100%;
+		padding: 0;
+	}
+	.outer-new .item-news .copy h5 {
+	    padding: 6px 0;
+	}
+
+	.ct-about-left {
+		width: 100%;
+	}
+	.ct-about-left img {
+		width: 100%;
+	}
+
+	.ct-about-right {
+		width: 100%;
+		padding: 0;
+	}
+
+	.tuyen-dung-info table tr td {
+		padding: 10px;
+	}
+
+	.ct-page-right h6 {
+		padding-right: 140px;
+	}
+
+	.ct-page-right ul li {
+		width: 100%;
+	}
+
+	.faqs-question .item-question {
+		padding-left: 40px;
+	}
+
+	.submenu-content a {
+	    margin: 0 10px;
+	}
+
+	.priority-contact {
+	    padding: 20px 0;
+	}
+	.priority-contact h4 {
+		line-height: 1.2;
+	}
+	.priority-contact-left, .priority-contact-right {
+		width: 100%;
+		padding: 0;
+	}
+
+	.group-form .item,
+	.group-form .item .input-text,
+	.group-form .item .my-select,
+	.group-payment-account .item .list-radio .radio-group,
+	.group-servise-ibank .text-box .input-text {
+		width: 100%;
+	}
+
+	/**********/
+
+	.nav-footer {
+		clear: both;
+	}
+	.nav-footer h3 {
+		padding: 9px 0;
+	}
+	.nav-footer ul {
+		display: none;
+	}
+	.nav-footer:last-child {
+		width: 50%;
+		float: right;
+		position: absolute;
+		right: 0;
+		top: 0;
+	}
+	.nav-footer:last-child ul {
+		display: block;
+	}
+
+	.nav-footer:last-child ul li {
+		padding: 9px 10px 0 0;
+	}
+
+	.new-download {
+		font-size: 16px !important;
+	}
+	.new-download .btn-down {
+		position: relative;
+		top: 0;
+		-webkit-transform: none;
+		-moz-transform: none;
+		-ms-transform: none;
+		transform: none;
+		margin: 10px 0 0;
+		width: 100%;
+	}
+
+	.ct-page-right h6 {
+		padding-right: 0;
+	}
+
+	.list-filter-tuyendung {
+	    margin: 0; 
+	}
+	.list-filter-tuyendung .column-2 {
+		margin: 4px 0;
+	}
+	.btn-reg.fright {
+		margin: 10px 0 !important;
+	}
+
+	.tb-tygia {
+		padding: 0;
+	}
+	.message-search {
+	    font-size: 24px !important;
+	    padding: 20px 0 !important;
+	}
+
+	.outer-new {
+	    min-height: 136px;
+	}
+
+	#pTuyendungSearch .aside-content article,
+	#pCaNhanSanPhamDetail .aside-content article {
+	    width: 100%;
+	    float: left;
+	    margin: 10px 0;
+	    margin-top: 0;
+	}
+
+	.tb-tuyendung table tr td:first-child {
+		display: none;
+	}
+
+	.group-form .item {
+        padding: 10px 0;
+    }
+
+    .date-filter,
+    .tuyen-dung-info .ct-page-left {
+    	display: none;
+    }
+
+    .search-page article {
+    	display: inline-block;
+    	margin: 20px 0;
+    }
+
+    .paging {
+    	text-align: center;
+    }
+    .paging a {
+	    margin: 2px;
+    }
+
+    .img-about {
+	    display: block;
+	    float: none !important;
+	    margin: 0 auto 20px;
+    }
+}
+/*@media screen and (max-width: 568px) {
+	
+}*/
+/********************************************************/
+@media screen and (max-width: 480px) {
+	.menu-list-mb-2 {
+		width: 185px;
+	}
+	.menu-list-mb-2 a {
+	  	font-size: 14px;
+	  	padding: 8px 0;
+	}
+	.menu-list-mb-2 li {
+	  	border-top: 1px solid #6dcff6;
+	  	padding: 0 10px;
+	}
+	.menu-list-mb-2 li img {
+		height: 30px;
+	}
+
+	.left-new-home article figure img {
+	    margin-left: -230px;
+	}
+
+	.bank-content {
+		margin: 40px auto;
+	}
+
+	.nav-footer:last-child {
+	  	clear: both;
+	}
+
+	.tuyen-dung-info ul {
+		padding-bottom: 30px;
+	}
+	.tuyen-dung-info ul li {
+		width: 100%;
+		margin: 15px 0;
+	}
+	.tuyen-dung-info h3 {
+		float: none;
+	}
+	.tuyen-dung-info ul li .img img {
+		width: 100%;
+	}
+
+	.ct-page-right h5 {
+	    font-size: 24px;
+	    line-height: 32px;
+	}
+	.ct-page-right h5:first-child {
+		padding-top: 24px;
+	}
+
+	.banner-category .copy h1, .banner-category .copy h3 {
+		font-size: 30px;
+	}
+
+	.tb-tab .outer-title li h3 {
+		font-size: 15px;
+	    padding: 10px 5px;
+	}
+
+	.date-ip {
+		margin: 0;
+		display: block;
+		margin-top: 5px;
+	}
+	.date-filter .btn-reg {
+		width: 100%;
+		margin-top: 10px;
+	}
+
+	.group-contact .btn-reg-now {
+		width: 100%;
+		float: none;
+	}
+
+	.textbox input {
+	    padding: 0 16px;
+	}
+	.areabox textarea {
+	    padding: 10px 16px;
+	}
+
+	.priority-contact p {
+		font-size: 16px;
+		line-height: 1.4;
+	}
+
+	.group-question table th, .group-question table td {
+		padding: 5px;
+	}
+	.group-question table th {
+		font-size: 12px;
+	}
+	.group-question table td {
+		font-size: 10px;
+	}
+
+	.tb-content tr th {
+		padding: 5px;
+		font-size: 12px;
+	}
+
+	.banner-category img {
+		margin-left: -130px;
+		height: 140px;
+	}
+
+	.ct-about-left {
+		height: 250px;
+	    overflow: hidden;
+	    position: relative;
+	}
+	.ct-about-left img {
+		position: absolute;
+	    top: 50%;
+	    -webkit-transform: translateY(-50%);
+	    -moz-transform: translateY(-50%);
+	    -ms-transform: translateY(-50%);
+	    transform: translateY(-50%);
+	    margin-top: -51px;
+	}
+
+	.benefits ul li .img {
+	    width: 26px;
+	}
+	.benefits ul li .img img {
+		width: 100%;
+	}
+	.benefits ul li .copy {
+		font-size: 14px;
+		line-height: 1.6;
+	}
+
+	.ct-page {
+		/*padding: 20px 0;*/
+		padding: 0 0 20px;
+	}
+	.ct-page.pdb0 {
+		padding-bottom: 0;
+	}
+
+	.list-filter-tuyendung label {
+		width: 100%;
+	}
+
+	/*.tab-article ul li {
+		margin: 0;
+	}*/
+	.group-question .item-question .answer {
+	    padding: 0 0 10px;
+	}
+
+	.contact-left li {
+	    padding: 10px 0;
+	}
+	.contact-left li p,
+	.contact-left li h5 {
+		font-size: 16px;
+		line-height: 1.4;
+		/*padding: 4px 0;*/
+		display: inline;
+	}
+
+	.tuyen-dung-info h1 {
+		font-size: 26px;
+	}
+
+	.outer-new .item-news {
+	    padding: 20px 10px;
+	}
+
+	.title-block {
+		border-bottom: 1px solid #b7b7b7;
+	}
+
+	.container-control {
+		position: relative;
+		bottom: 0;
+	}
+
+	.bank-content h2 {
+		font-size: 26px;
+		line-height: 1.3;
+		padding: 30px 0;
+	}
+
+	.related-container .bank-content li {
+		width: 100%;
+		padding: 0 10px;
+	}
+
+	.related-container .bank-content ul {
+	    margin: 0 -10px;
+	}
+
+	#pCaNhanSanPham .bank-content li {
+	    width: 100%;
+	}
+
+	.tb-tuyendung table .clblue {
+		font-size: 14px;
+		line-height: 1.4;
+	}
+	.tb-tuyendung table tr td {
+		padding: 5px;
+	}
+
+	.title-style h3,
+	.title-page h1 {
+		margin-bottom: 0;
+	}
+
+	.title-page {
+		padding-bottom: 20px;
+	}
+
+	.copy-tuyendung ul li {
+		margin: 0;
+	}
+
+	.ct-table-response table th,
+	.ct-table-response table td {
+		padding: 5px;
+		font-size: 9px;
+	}
+}
+/********************************************************/
+@media screen and (max-width: 479px) {
+	.tab-article ul li {
+		width: 100%;
+	}
+	.app {
+	    right: 10px;
+	}
+	.app-title {
+	    font-size: 20px;
+	    line-height: 26px;
+	}
+
+	.nav-footer {
+		width: 50%;
+	}
+	/*.nav-footer:last-child {
+		width: 100%;
+	}*/
+	/*.nav-footer:last-child ul li {
+		width: 50%;
+		float: left;
+	}*/
+
+	.outer-slide {
+		/*height: 120px;*/
+		height: 105px;
+	}
+
+	.sub-category-list ul li {
+		width: 100%;
+	}
+
+	.sub-category-list {
+	    padding: 20px 0;
+	}
+
+	.ct-about-right ul li span {
+		vertical-align: middle;
+	}
+
+	.list-filter-tuyendung input, 
+	.list-filter-tuyendung .my-select {
+		width: 100%;
+	}
+
+	.tuyen-dung-info .ct-page-left {
+		padding: 10px;
+	}
+	.tuyen-dung-info .ct-page-left table tr td {
+	    padding: 5px;
+	    float: left;
+	    width: 50%;
+	}
+
+	.aside-content article {
+		margin-top: 0;
+	}
+
+	.ct-page-right .btn-reg {
+		width: 100%;
+	}
+
+	.group-question .question {
+		font-size: 14px;
+		line-height: 1.6;
+	}
+	.ct-page-right .question span {
+		font-size: 16px;
+		line-height: 24px;
+	}
+
+	.group-question .question:after {
+		right: 0;
+		border-top: 8px solid #00457c;
+		border-left: 8px solid transparent;
+		border-right: 8px solid transparent;
+	}
+	.group-question .question.js-active:after {
+	    border-left: 8px solid transparent;
+	    border-right: 8px solid transparent;
+	    border-bottom: 8px solid #00457c;
+	}
+
+	.tb-content tr td {
+		padding: 5px;
+        font-size: 10px;
+	}
+
+	.submenu-content {
+		height: auto;
+	}
+	.submenu-content a {
+	    margin: 0 16px;
+        line-height: 50px;
+	} 
+
+	.intro-pr ul li {
+		width: 100%;
+	    padding: 0;
+	    border: none;
+	}
+
+	.infomation-contact-pr p span:nth-child(2) {
+		display: none;
+	}
+
+	.group-form .item .label {
+	    float: none;
+	    width: 100%;
+	    padding: 0;
+	}
+	.group-form .item .input-text {
+	    float: none;
+	    width: 100%;
+	    margin: 10px 0 0;
+	}
+	.group-form .item .my-select {
+		width: 100%;
+		margin: 10px 0 0;
+	}
+	.btn-submit {
+		width: 100%;
+	}
+
+	.group-form .item .radio-group {
+		width: 50%;
+		margin: 10px 0;
+	}
+	.group-form .item .text-infor,
+	.group-form .item .list-radio {
+		width: 100%;
+	}
+
+	.group-service ul li {
+		padding: 0 5px;
+	}
+
+	.tab-article ul li:nth-child(3),
+	.tab-article ul li:nth-child(4) {
+		display: none;
+	}
+
+	/***********************/
+	.group-service {
+		overflow: hidden;
+	}
+	.group-service .container {
+		padding: 0;
+		overflow: auto;
+		-webkit-overflow-scrolling: touch;
+	    scroll-behavior: smooth; 
+	}
+	.group-service ul {
+		width: 200%;
+		padding: 10px 0;
+	}
+	.group-service ul li {
+		width: 16.66666%;
+	}
+	.group-service ul li a {
+		font-size: 13px;
+		line-height: 1;
+	}
+	.group-service ul li span {
+		-webkit-transform: scale(.8);
+		-moz-transform: scale(.8);
+		-ms-transform: scale(.8);
+		transform: scale(.8);
+		margin-bottom: 0;
+	}
+	/***********************/
+	.container-tab {
+		padding: 0;
+	}
+
+	.new-hot {
+		height: auto;
+	}
+	.new-hot h3 {
+		padding: 24px 10px;
+	}
+	.new-hot article {
+		padding: 20px 10px;
+	}
+
+	.helpfull {
+		height: 292px;
+	}
+	.content-left > img {
+		height: 208px;
+		margin-left: -145px;
+	}
+
+	.helpfull .right {
+		height: 50%;
+	}
+	.helpfull .right .copy input {
+		width: 66%;
+	    float: left;
+        height: 30px;
+	    line-height: 30px;
+	}
+	.helpfull .right .copy a {
+	    width: 32%;
+	    float: right;
+	}
+
+	.app-title {
+	    font-size: 18px;
+	    line-height: 1.2;
+	}
+	.app p {
+		overflow: hidden;
+	}
+	.app p a {
+		clear: both;
+	    display: block;
+	    margin-bottom: 10px;
+	    float: right;
+	}
+
+	/************************/
+	.item-question .answer p, 
+	.group-question .item-question .answer ul li {
+	    font-size: 14px;
+	    line-height: 1.6;
+	}
+
+	.contact-right p {
+		padding: 30px 0;
+	}
+
+	#pGioiThieu .outer-slide {
+		height: 100px;
+	}
+
+	.banner-about-ncb img {
+	    height: 80px;
+	    width: auto;
+	}
+}
+
+/***********************/
+@media screen and (min-width: 768px) {
+	.banner-dark .breadcrumb a, 
+	.banner-dark .breadcrumb i,
+	.banner-dark .copy h1, 
+	.banner-dark .copy h3 {
+	  color: #fff;
+	}
+	.banner-dark .breadcrumb a:hover {
+		color: #609adc;
+	}
+}
+
+/*------------BANNER-HOME-SIZE------------*/
+@media screen and (min-width: 1400px) and (max-width: 1600px) {
+	.outer-slide {
+	    /*height: 510px;*/
+	    height: 455px;
+	}
+}
+
+@media screen and (min-width: 414px) and (max-width: 414px) {
+	.outer-slide {
+	    height: 150px;
+	}
+}
+@media screen and (min-width: 375px) and (max-width: 375px) {
+	.outer-slide {
+	    height: 135px;
+	}
+}
+@media screen and (min-width: 1024px) and (max-height: 750px) {
+	/*.outer-slide {
+	    height: 420px;
+	}*/
+	.group-service ul {
+	    padding: 20px 0;
+	}
+}
+
+@media screen and (max-width: 667px) {
+	.banner-category img {
+		height: 141px;
+	}
+}
+@media screen and (max-width: 568px) {
+	.banner-category img {
+		height: 130px;
+	}
+}
+
+
+/*----------END-BANNER-HOME-SIZE----------*/
+
+/*------------GROUP-TARIFF-SUICIDE------------*/
+@media screen and (max-width: 374px) {
+	.group-tariff-suicide ul li {
+	    width: 100%; 
+	    margin: 20px 0;
+	}
+
+	.group-tariff-suicide h2 {
+		font-size: 20px;
+		line-height: 1.2;
+	}
+	.group-tariff-suicide .btn-down {
+		padding: 5px 17px;
+		font-size: 15px;
+		line-height: 1.2;
+	}
+	.group-tariff-suicide .btn-down span {
+		margin-right: 10px;
+	}
+}
+/*-----------END-GROUP-TARIFF-SUICIDE------------*/
+@media screen and (max-width: 767px) {
+	.register-form .wrap-w840,
+	.receiving-records .group-select {
+		padding: 0 10px;
+	}
+	.wrap-step {
+		margin-top: 20px;
+		display: inline-block;
+	}
+	.outer-line-percent {
+		height: 98px;
+	}
+	.line-percent {
+		padding: 40px 0;
+	}
+	.line-percent .w10pc, .line-percent .w80pc, .wrap-step .step-item {
+	    font-size: 14px;
+	}
+	.bar .bar-animate .circle {
+		width: 30px;
+		height: 30px;
+		padding-top: 6px;
+		font-size: 12px;
+	}
+	
+	.reg-card .column-4 {
+		width: 50%;
+		margin-top: 20px;
+	}
+	.reg-card .column-4:first-child {
+		width: 100%;
+	}
+
+	/*.register-form .al-center {
+		padding: 0 10px;
+	}*/
+
+	.register-form .outer-form {
+		padding: 0 10px;
+	}
+	.register-form .right-line .radio-item:first-child {
+	    margin-right: 30px;
+	}
+
+	.register-form .wrap-line {
+		padding: 10px 0;
+	}
+
+	.register-form .left-line,
+	.register-form .right-line {
+		width: 100%;
+		margin: 0;
+	}
+	.passport-item {
+		font-size: 14px;
+		padding: 0 10px;
+	}
+	.passport-item:nth-child(2) {
+	    margin: 0 1%;
+	}
+
+	.check-radio {
+		width: 35px;
+		height: 35px;
+	}
+
+	.w48 .text {
+		width: 100%;
+		padding-top: 0;
+	}
+	.passport-group .w48 .text-ip, .passport-group .w48 .my-select {
+		width: 100%;
+		margin: 0;
+	}
+
+	.wrap-w840 {
+		padding: 10px;
+	}
+
+	.thongtin .wrap-w840 .column-2 {
+		width: 50%;
+	}
+
+	.dis-none {
+		display: none !important;
+	}
+	.passport-group .wrap-line:nth-child(3) {
+		padding: 0;
+	}
+
+	.register-form-note {
+		display: inline-block;
+		width: 100%;
+		margin-top: 20px;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	.register-form {
+	    margin: 10px 0;
+	    display: inline-block;
+	    padding: 20px 0;
+	}
+	.register-form h2 {
+	    margin-bottom: 0;
+	}
+
+	.register-step {
+		padding-top: 0;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	
+	.register-form .btn-back-form,
+	.register-form .btn-submit {
+		margin: 10px 0;
+	}
+	.btn-back-form {
+		width: 100%;
+		margin: 0;
+	}
+
+	.commitment-text {
+		padding: 26px 5%;
+	}
+
+	
+	.icon-card, .icon-passport {
+		margin-right: 0;
+	}
+
+	.right-line .w48,
+	.right-line .w48:first-child {
+		width: 100%;
+		margin: 0;
+	}
+	.right-line .w48 {
+		padding: 10px 0;
+	}
+
+	.passport-group .w48 .text-ip, .passport-group .w48 .my-select {
+	    display: inline-block;
+	    vertical-align: middle;
+	}
+
+	.register-form .right-line .radio-item:first-child {
+	    margin-right: 20px;
+	}
+
+	.reg-servise-ib .radio-item {
+	    margin: 10px 20px 10px 0;
+	}
+	.register-form .radio-item label img {
+	    height: 25px;
+	} 
+
+	.wrap-tt h3 {
+		padding: 11px 10px;
+	}
+
+    /*.reg-card .wrap-w840 {
+        text-align: center;
+    }*/
+	.reg-card .view-chitet {
+		float: none;
+        display: inline-block;
+        margin-top: 20px;
+	}
+
+	.reg-tk-tt .wrap-w840 .column-3:first-child,
+	.reg-tk-tt .wrap-w840 .column-3:nth-child(2),
+	.reg-tk-tt .wrap-w840 .column-3:last-child {
+	    width: 100%;
+        padding: 5px 0;
+	}
+
+	/*.tab-ib .item-ib .text {
+	  display: none;
+	}*/
+	.tab-ib .item-ib .img {
+		margin: 0;
+	}
+
+	.commitment-text {
+		padding: 5%;
+	}
+	.commitment-text .copy {
+		font-size: 14px;
+	}
+
+	.passport-item {
+		width: 100%;
+		margin: 5px 0 !important;
+	}
+
+	.reg-servise-ib .wrap-w840 .w48 {
+		width: 100%;
+	}
+
+	.reg-card .img {
+	    padding-left: 30px;
+	}
+
+	.thongtin .wrap-w840 {
+		background: none;
+	}
+	.thongtin .wrap-w840 .column-2 {
+		width: 100%;
+	}
+	.register-form .border-right {
+		border: none;
+	}
+	.register-form .pdl-20 {
+		padding: 0;
+	}
+
+	.link-group-select .link-to {
+	    width: 100%;
+	    margin: 0 !important;
+	}
+
+	.line-percent .w10pc {
+	    width: 15%;
+	}
+	.line-percent .w80pc {
+	    width: 70%;
+	}
+
+	.register-form h2 {
+		font-size: 26px;
+		margin-bottom: 10px;
+	}
+
+	.tab-ib-item .text {
+		padding: 0;
+	}
+	.option-ib .wrap-ip-option {
+		padding-top: 0;
+	}
+
+	.register-form-note {
+		padding: 0 10px;
+	}
+}
+
+@media screen and (max-width: 479px) {
+	.reg-card .column-4 {
+	    width: 100%;
+	}
+	.right-line .w48,
+	.register-form .wrap-line,
+	.tab-ib-item .text, 
+	.tab-ib-item .w100pc {
+	    padding: 5px 0;
+	}
+	.register-form .text,
+	.check-box label {
+		font-size: 16px;
+	}
+
+	.register-form .radio-item label {
+		font-size: 16px;
+	    padding-left: 40px;
+	}
+	.check-radio {
+	    width: 25px;
+	    height: 25px;
+	}
+	.check-radio:before {
+	    width: 10px;
+	    height: 10px;
+	}
+
+	.register-form .outer-form .al-center,
+	.register-form .outer-form .al-right {
+		padding: 20px 0;
+	}
+
+	.reg-servise-ib .radio-item {
+	    margin: 5px 20px 5px 0;
+        padding: 10px 0;
+	}
+	.option-ib .wrap-ip-option {
+		padding: 0 0 5px;
+	}
+	.reg-servise-ib .view-chitet {
+		display: block;
+		float: none;
+	}
+	.register-form-note p {
+	    font-size: 16px;
+	    padding: 5px 0;
+	}
+
+	.receiving-records .al-center {
+		padding: 20px 10px;
+	}
+}
+/*------------FROM-REGISTER------------*/
+
+/*-----------END-FROM-REGISTER------------*/

@@ -1,0 +1,38 @@
+.container .ct-page .ct-page-right .img img{
+	width: 100%;
+	height: auto;
+}
+.dn{
+  display: none !important;
+}
+.content-page-H{
+	width: 100%;
+}
+.content-page-H .main-page{
+	padding-right: 0;
+}
+.content-page-H img{
+	width: 100%;
+	height: auto;
+}
+.jsValidateUnicode {
+    text-transform: uppercase;
+}
+::-webkit-input-placeholder {
+   text-transform: initial;
+}
+
+:-moz-placeholder { 
+   text-transform: initial;
+}
+
+::-moz-placeholder {  
+   text-transform: initial;
+}
+
+:-ms-input-placeholder { 
+   text-transform: initial;
+}
+.btn-reg {
+    font-size: 8px;
+}
